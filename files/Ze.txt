@@ -1,0 +1,2 @@
+Each line of this file is of the type:
+ID : X, Y, Height, Width
